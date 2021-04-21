@@ -1,0 +1,1 @@
+{'last_accuract': 1.0, 'max_seq_len': 6, 'embedding_dim': 30, 'tokenizer_name': 'tokenizer.pickle', 'model_name': 'intent_recognizer.h5'}
